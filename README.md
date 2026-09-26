@@ -8,13 +8,9 @@
 
 当前版本 **2.2.0**，适用于 Android 7.0 及以上。这是个人分享测试版，不是应用商店正式发行版。
 
-## 界面预览
+## 界面
 
-| 跨设备护眼计时 | 护眼休息 |
-|---|---|
-| <img src="https://github.com/hkjx11662-art/FamilyHealth/releases/download/v2.2.0/timer-running.png" width="300" alt="跨设备护眼计时"> | <img src="https://github.com/hkjx11662-art/FamilyHealth/releases/download/v2.2.0/eye-rest.png" width="300" alt="护眼休息"> |
-
-休息页为既有界面示例，实际显示随状态变化。公开预览不包含个人应用使用记录。
+清新复古的浅色界面。首页集中展示当日使用时间和规则入口；跨设备护眼计时页展示分钟、秒数与暂停操作；休息页显示剩余秒数和远眺提示。
 
 ## 主要功能
 
